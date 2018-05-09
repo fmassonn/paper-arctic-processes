@@ -12,7 +12,7 @@ In order to run the scripts of this project, data must be first retrieved.
 
 Data can be retrieved from the PANGAEA Data Publisher under the following reference:
 
-[TO BE ADDED WHEN DATA IS UPLOADED]
+https://doi.pangaea.de/10.1594/PANGAEA.889757
 
 ## Running the scripts
 
