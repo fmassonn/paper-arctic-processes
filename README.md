@@ -14,6 +14,16 @@ Data can be retrieved from the PANGAEA Data Publisher under the following refere
 
 https://doi.pangaea.de/10.1594/PANGAEA.889757
 
+The data is available as a ZIP file and should be unzipped in the main directory under the name "netcdfs". The structure of the folder therefore looks like:
+
+paper-arctic-processes/
+├── *.py        # All Python scripts
+├── csv/
+├── fonts/
+├── netcdfs/
+│   ├── *.nc    # NetCDF files downloaded from the archive
+├── README.md   # The current file
+
 ## Running the scripts
 
 Scripts are self-documented. They are written in Python. Python2.7 will certainly work, the scripts have not been tested with Python3 but could work as well.
