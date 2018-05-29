@@ -4,6 +4,8 @@ This repository contains the scripts and data necessary to replicate bit wise th
 
 Massonnet, F. et al. Arctic sea-ice change tied to its mean state through thermodynamic processes
 
+accepted in Nature Climate Change, doi:10.1038/s41558-018-0204-z
+
 Any question about the use of this repository should be directed to the corresponding author, François Massonnet (francois.massonnet@uclouvain.be)
 
 ## Getting the data
@@ -16,6 +18,7 @@ https://doi.pangaea.de/10.1594/PANGAEA.889757
 
 The data is available as a ZIP file named `SeaIce_model_data.zip`. In the main directory, create a directory named `netcdfs`, move the zip file there, and unzip it. After this operation, the structure of the folder therefore looks like:
 
+```
 paper-arctic-processes/
 ├── *.py        # All Python scripts
 ├── csv/
@@ -23,6 +26,7 @@ paper-arctic-processes/
 ├── netcdfs/
 │   ├── *.nc    # NetCDF files downloaded from the archive
 ├── README.md   # The current file
+```
 
 ## Running the scripts
 
