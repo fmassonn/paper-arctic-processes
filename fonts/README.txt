@@ -1,24 +1,11 @@
-README - Andika Basic Regular Release 1.0 2 May 2008
-===========================================================
+Contained herin is the Bitstream Vera font family.
 
-Thank you for your interest in Andika ("Write!" in Swahili), a Unicode-compliant sans serif font designed by SIL International primarily for literacy use.
+The Copyright information is found in the COPYRIGHT.TXT file (along
+with being incoporated into the fonts themselves).
 
-See FONTLOG.txt for detailed information on the rationale for Andika, as well as a complete list of supported characters.
+The releases notes are found in the file "RELEASENOTES.TXT".
 
-See AndikaBasicR-FAQ-KI.txt for frequently-asked questions and known issues.
+We hope you enjoy Vera!
 
-See OFL.txt for the complete text of the SIL Open Font License. See OFL-FAQ.txt for frequently-asked questions about the SIL Open Font License.
-
-There is one TrueType (.ttf) font file included:
-   AndBasR.ttf
-
-
-INSTALLATION
-=============
-In Windows XP:
--->Right click on Start icon in Taskbar, choose Explore, navigate to downloaded font file (AndBasR.ttf; wherever you unzipped it to). On Folders side of window, go to Local Disk (C:)/Windows/, and drag font files into Fonts folder.
-
-
-CONTACT
-========
-For more information please visit the Andika page on SIL International's Computers and Writing Systems website at http://scripts.sil.org/Andika. Or send an e-mail to <andika AT sil DOT org>.
+                        Bitstream, Inc.
+			The Gnome Project

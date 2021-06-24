@@ -10,7 +10,7 @@
 #         francois.massonnet@uclouvain.be
 
 # Load standard modules, fonts, etc.
-execfile("./config.py") 
+exec(open("./config.py").read()) 
 
 
 # Start the script
@@ -28,7 +28,7 @@ fig=plt.figure(figsize = (6, 10))
 yearb = 1955
 yeare = 2004
 # Read CMIP5 namelist (in another file since this namelist is used by different scripts)
-execfile("./cmip5_namelist.py")
+exec(open("./cmip5_namelist.py").read())
 
 n_models = len(info)
 n_years = yeare - yearb + 1

@@ -1,9 +1,11 @@
+Contained herin is the Bitstream Vera font family.
 
-This font is made by APlaPi.
-You MUST NOT sell, rent, license or redistribute the font without my explicit permission.
-If you need a license feel free to ask. For any other information e-mail me at abrahamplapi@gmail.com
+The Copyright information is found in the COPYRIGHT.TXT file (along
+with being incoporated into the fonts themselves).
 
- - --  Donations will be welcome and very much appreciated.  -- -
+The releases notes are found in the file "RELEASENOTES.TXT".
 
-Thank you
-APlaPi
+We hope you enjoy Vera!
+
+                        Bitstream, Inc.
+			The Gnome Project

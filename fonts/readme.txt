@@ -1,11 +1,11 @@
-Font Name : Acephimere
-Created By Dichi
+Contained herin is the Bitstream Vera font family.
 
-This font is 100% free!
-Please note that this font is under heavy development.
-Currently I've finished the regular weight (+ italic) and more weights will
-be added in the future! I'll try my best to create it as soon as possible,
-so you will use the font in your project in no time. :)
+The Copyright information is found in the COPYRIGHT.TXT file (along
+with being incoporated into the fonts themselves).
 
-If you need help, feel hesitate, or have any suggestion,
-please reach me at diciganteng01@icloud.com
+The releases notes are found in the file "RELEASENOTES.TXT".
+
+We hope you enjoy Vera!
+
+                        Bitstream, Inc.
+			The Gnome Project
